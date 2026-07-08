@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ title | default("MadaraIT") }}</title>
+    <meta name="description" content="MadaraIT provides AI-enabled IT, RCM, cloud, cybersecurity, automation, analytics, and managed service delivery.">
+    <link rel="stylesheet" href="/css/style.css">
+  </head>
+  <body>
+    {% include "header.njk" %}
+    <main>
+      {{ content | safe }}
+    </main>
+    {% include "footer.njk" %}
+    <script src="/js/script.js"></script>
+  </body>
+</html>
