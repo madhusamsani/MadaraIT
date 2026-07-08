@@ -1,0 +1,28 @@
+﻿madarait-website/
+|-- index.html
+|-- about.html
+|-- solutions.html
+|-- industries.html
+|-- case-studies.html
+|-- careers.html
+|-- blog.html
+|-- contact.html
+|-- login.html
+|-- dashboard.html
+|-- assets/
+|   |-- automation-analytics-solutions.png
+|   |-- automation-analytics-video.gif
+|   |-- healthcare-command-center.png
+|   |-- healthcare-rcm-solutions.png
+|   |-- healthcare-rcm-video.gif
+|   |-- managed-it-cloud-security.png
+|   |-- managed-it-video.gif
+|   |-- medical-coding-rcm.png
+|   |-- service-desk-support.png
+|   |-- cloud-infrastructure.png
+|   |-- cybersecurity-compliance.png
+|   |-- data-analytics-intelligence.png
+|-- css/
+|   |-- style.css
+|-- js/
+|   |-- script.js
