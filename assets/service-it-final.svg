@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1">
+      <stop offset="0" stop-color="#102a43"/>
+      <stop offset="1" stop-color="#17694f"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#f7fbfc"/>
+  <g transform="translate(60,60)">
+    <rect x="0" y="0" width="1280" height="780" rx="18" fill="#fff" stroke="#dce6ee" />
+    <g transform="translate(100,120)">
+      <rect x="0" y="0" width="480" height="320" rx="12" fill="#0e2a36" opacity="0.06"/>
+      <rect x="620" y="24" width="560" height="120" rx="10" fill="url(#g2)" opacity="0.12"/>
+      <rect x="620" y="174" width="420" height="120" rx="10" fill="#19b9c3" opacity="0.08"/>
+    </g>
+  </g>
+  <text x="80" y="40" fill="#102a43" font-family="Inter, Arial" font-size="24" font-weight="700">Managed IT & Cloud — secure, monitored, supported</text>
+</svg>
